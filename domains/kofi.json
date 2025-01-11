@@ -1,0 +1,11 @@
+{
+    "description": "Portafolio",
+    "repo": "https://github.com/nico4348/register",
+    "owner": {
+        "username": "nico4348",
+        "email": "nico4348@gmail.com"
+    },
+    "record": {
+        "CNAME": "nico4348.github.io"
+    }
+}
